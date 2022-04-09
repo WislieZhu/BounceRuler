@@ -1,8 +1,6 @@
 效果:
 
-![SVID_20220409_093207_1](/Users/wislie/Desktop/SVID_20220409_093207_1.gif)
-
-https://github.com/WislieZhu/BounceRuler/blob/main/SVID_20220409_093207_1.gif
+https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8daea57946ef494881246030996df5c1~tplv-k3u1fbpfcp-watermark.image?
 思路:
 
 1.结合OverScroller(有回弹效果), GestureDetector.SimpleOnGestureListener
