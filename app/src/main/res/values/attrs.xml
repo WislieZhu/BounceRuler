@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="Ruler">
+        //标准的屏幕像素密度
+        <attr name="standard_dpi" format="integer"/>
+        //每条线多少个density
+        <attr name="line_density" format="integer"/>
+        //屏幕有多少个点
+        <attr name="pots_num" format="integer"/>
+        //设置尺的长度
+        <attr name="ruler_size" format="integer"/>
+        //长的线宽
+        <attr name="long_line_stroke_width" format="float"/>
+        //短的线宽
+        <attr name="line_stroke_width" format="float"/>
+        //不变的触笔大小
+        <attr name="statics_text_size" format="float"/>
+        //尺的触笔大小
+        <attr name="ruler_text_size" format="float"/>
+
+    </declare-styleable>
+
+</resources>
