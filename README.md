@@ -1,6 +1,7 @@
 效果:
 
-![SVID_20220409_093207_1](https://tva1.sinaimg.cn/large/e6c9d24ely1h137z38xwyg20ge0zkdt0.gif)
+![SVID_20220409_093207_1](/Users/wislie/Desktop/SVID_20220409_093207_1.gif)
+
 
 思路:
 
