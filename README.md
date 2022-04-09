@@ -2,7 +2,7 @@
 
 ![SVID_20220409_093207_1](/Users/wislie/Desktop/SVID_20220409_093207_1.gif)
 
-
+https://github.com/WislieZhu/BounceRuler/blob/main/SVID_20220409_093207_1.gif
 思路:
 
 1.结合OverScroller(有回弹效果), GestureDetector.SimpleOnGestureListener
